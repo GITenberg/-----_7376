@@ -1,0 +1,29 @@
+_repo: '-----_7376'
+_version: 0.0.1
+alternative_title: Zhong yong zhang ju
+creator:
+  author:
+    agent_name: Zhu, Xi
+    alias: 朱熹
+    birthdate: 1130
+    deathdate: 1200
+    gutenberg_agent_id: '2448'
+    url: http://www.gutenberg.org/2009/agents/2448
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zhu_Xi
+    - http://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7376'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Zhong yong'
+- GITenberg
+title: 中庸 章句
+url: http://www.gutenberg.org/ebooks/7376
