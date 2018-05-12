@@ -1,6 +1,9 @@
 _repo: '-----_7376'
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Zhong yong zhang ju
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zhu, Xi
@@ -13,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Zhu_Xi
     - http://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7376#-----
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
